@@ -129,17 +129,17 @@ I work on website development, landing page design and social media marketing. M
 
 ---
 
-## 📊 GitHub Statistics
+## 🏆 GitHub Achievements
 
-<div align="center">
+<p align="center">
+  Explore my GitHub profile to see my achievements, contributions and development activity.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/View_GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
